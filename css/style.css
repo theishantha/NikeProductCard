@@ -6,7 +6,7 @@
 
 body{
     font-family: Roboto, sans-serif;
-    background: #353535;
+    background: #EFF7FC;
 }
 
 .container{
@@ -265,7 +265,7 @@ background: linear-gradient(to right, #FF4B2B, #FF416C); /* W3C, IE 10+/ Edge, F
 .ul-color li a.active:after
 {
   position: absolute;
-  content: '';
+/*  content: '';*/
   display: inline-block;
   border: 1px solid #f35e3d;
   width: 24px;
@@ -297,59 +297,6 @@ background: linear-gradient(to right, #FF4B2B, #FF416C); /* W3C, IE 10+/ Edge, F
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* Color Pallete */
 
 div.color-pallete
 {
@@ -395,7 +342,7 @@ div.color-pallete span
   border-radius: 10%;
 }
 
-/* End */
+
 
 
 
